@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "nome": "Filippo",
+    "descrizione": "Dro$a",
+    "importo": 15.5,
+    "partecipanti": [
+      "Filippo",
+      "Sergio",
+      "Sergio2"
+    ]
+  }
+]
