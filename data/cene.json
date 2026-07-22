@@ -1,1 +1,69 @@
-[]
+[
+  {
+    "titolo": "Prova cena puzzona",
+    "sconti": {
+      "antipasto": 1,
+      "primi": 1,
+      "secondi": 1,
+      "contorni": 1,
+      "pizza": 1,
+      "panini": -2,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 0,
+      "liquori": 0,
+      "centesimini": 0,
+      "menu": 0,
+      "coperto": 0,
+      "dolci": 1
+    },
+    "persone": [
+      {
+        "nome": "Filippo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "centesimini": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0,
+        "pagato": 0
+      },
+      {
+        "nome": "Totti",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "centesimini": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0,
+        "pagato": 0
+      }
+    ],
+    "speseCondivise": []
+  }
+]
