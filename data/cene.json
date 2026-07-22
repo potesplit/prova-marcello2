@@ -107,7 +107,7 @@
         "menu": 0,
         "coperto": 0,
         "dolci": 0,
-        "pagato": 0
+        "pagato": 1
       },
       {
         "nome": "francescototti",
@@ -128,7 +128,7 @@
         "menu": 0,
         "coperto": 0,
         "dolci": 0,
-        "pagato": 0
+        "pagato": 1
       },
       {
         "nome": "Totti",
@@ -149,7 +149,7 @@
         "menu": 0,
         "coperto": 0,
         "dolci": 0,
-        "pagato": 0
+        "pagato": 1066
       }
     ],
     "speseCondivise": [
