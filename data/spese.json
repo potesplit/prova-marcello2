@@ -18,5 +18,15 @@
       "Sergio",
       "Sergio2"
     ]
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Voglio vedere se posso fare perdere centesimi a qualcuno",
+    "importo": 35.5,
+    "partecipanti": [
+      "Filippo",
+      "Sergio",
+      "Sergio2"
+    ]
   }
 ]
