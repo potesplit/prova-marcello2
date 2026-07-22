@@ -1,4 +1,11 @@
 {
   "titolo": "Prova marcello2",
-  "credenziali": []
+  "credenziali": [
+    {
+      "nome": "Delpierp",
+      "tipo": "iban",
+      "iban": "IbanFintoDiProvaPerDelpierp",
+      "intestatario": "Delpierp Alessandro"
+    }
+  ]
 }
