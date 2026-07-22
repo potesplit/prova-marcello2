@@ -89,27 +89,6 @@
     },
     "persone": [
       {
-        "nome": "Delpierp",
-        "antipasto": 1,
-        "primi": 0,
-        "secondi": 0,
-        "contorni": 0,
-        "pizza": 0,
-        "panini": 0,
-        "frutta": 0,
-        "acqua": 0,
-        "caffe": 0,
-        "bibite": 0,
-        "birra": 0,
-        "vino": 0,
-        "liquori": 0,
-        "centesimini": 0,
-        "menu": 0,
-        "coperto": 0,
-        "dolci": 0,
-        "pagato": 13.5
-      },
-      {
         "nome": "Francesco Totti",
         "antipasto": 0,
         "primi": 1,
@@ -162,7 +141,7 @@
         "frutta": 0,
         "acqua": 0,
         "caffe": 0,
-        "bibite": -2,
+        "bibite": 0,
         "birra": 0,
         "vino": 0,
         "liquori": 1000,
@@ -179,7 +158,6 @@
         "tipo": "divisa",
         "importo": 64,
         "partecipanti": [
-          "Delpierp",
           "Francesco Totti",
           "francescototti",
           "Totti"
